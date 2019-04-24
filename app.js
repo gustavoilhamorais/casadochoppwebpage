@@ -17,5 +17,5 @@ const slash = require('./routes/slash');
 app.use('/', slash);
 
 // Express Server //
-const PORT = 7001;
+const PORT = process.env.PORT || 7001;
 app.listen(PORT, () => { console.log('Server running on port ' + PORT) });
