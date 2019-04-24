@@ -1,0 +1,31 @@
+{
+  "name": "casadochoppwebpage",
+  "version": "1.0.0",
+  "description": "A responsive single page application designed to a specific client.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/CyberGust/casadochoppwebpage.git"
+  },
+  "keywords": [
+    "nodejs",
+    "spa",
+    "express",
+    "webpage",
+    "html",
+    "css",
+    "javascript"
+  ],
+  "author": "Gustavo Ilha Morais",
+  "license": "MPL-2.0",
+  "bugs": {
+    "url": "https://github.com/CyberGust/casadochoppwebpage/issues"
+  },
+  "homepage": "https://github.com/CyberGust/casadochoppwebpage#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
