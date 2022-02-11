@@ -28,6 +28,6 @@
   "homepage": "https://github.com/CyberGust/casadochoppwebpage#readme",
   "dependencies": {
     "express": "^4.16.4",
-    "express-handlebars": "^3.0.2"
+    "express-handlebars": "^5.3.1"
   }
 }
